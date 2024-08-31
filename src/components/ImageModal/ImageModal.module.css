@@ -1,0 +1,27 @@
+.Overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .Modal {
+    /* position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 600px;
+    height: 400px;
+    object-fit: cover; */
+  }
+  .photo{
+    width: 900px;
+    height: 600px;
+    object-fit: cover;
+  }
